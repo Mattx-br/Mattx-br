@@ -1,9 +1,9 @@
-### Hi! I am Anthony Nunes.
+### Hi! I am Anthony Nunes, a Software Developer 💻
 
 <div align="center">
   <a href="https://github.com/Mattx-br">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mattx-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattx-br&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="500em"src="https://github-readme-stats.vercel.app/api?username=Mattx-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="460em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattx-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Tony-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tony-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="right" alt="Tony-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGNiscFPld4Kw/profile-displayphoto-shrink_800_800/0/1606941356804?e=1648684800&v=beta&t=sR7w66HmTb4cO0AK3-7gP0lMVsUEbxYgyDPuh2WI1v4">
+  <img align="right" alt="Tony-pic" height="150px" width="150px" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGNiscFPld4Kw/profile-displayphoto-shrink_800_800/0/1606941356804?e=1648684800&v=beta&t=sR7w66HmTb4cO0AK3-7gP0lMVsUEbxYgyDPuh2WI1v4">
 </div>
   
   ##
