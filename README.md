@@ -15,6 +15,7 @@
   <img align="center" alt="Tony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tony-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Tony-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="Tony-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">  
   <img align="right" alt="Tony-pic" height="130px" width="130px" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGNiscFPld4Kw/profile-displayphoto-shrink_800_800/0/1606941356804?e=1648684800&v=beta&t=sR7w66HmTb4cO0AK3-7gP0lMVsUEbxYgyDPuh2WI1v4">
 </div>
   
